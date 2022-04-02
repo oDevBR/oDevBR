@@ -9,13 +9,12 @@
 
 I am a software engineer passionate about frontend and all the ecosystem around it! I am always looking to learn and improve my skills through things like reading, podcasts, a good practice, online courses and events. I love how challenging every day is, giving me the possibility to grow fast as a person.
 
-- 🔭  I’m currently working on 3778 as Software Engineer
-- 🌱  I’m currently learning Flutter
-- 👯  I’m looking to collaborate on public projects using Javascript/Typescript
-- 🤔  I’m looking for help with GraphQL
+- 🔭  I’m currently working on 3778 as Software Engineer, Frontend
+- 🌱  I’m currently learning Flutter/Next.js
+- 👯  I’m open to collaborate on public projects using Javascript/Typescript
 - 📫  How to reach me: joao.aquino.dev@gmail.com
-- 🎯 Goal: Deliver the best of technology to everyone
-- ⚡  Fun fact: I helped create a drink and named it "Tonho"
+- 🎯  Goal: Deliver the best of technology to everyone
+- ⚡   Fun fact: I helped create a drink and named it "Tonho"
 
 <details open>
   <summary>🚀 <b>Skills that I love to talk about</b>:</summary>
@@ -24,14 +23,11 @@ I am a software engineer passionate about frontend and all the ecosystem around 
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/angular-red.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vuejs-green.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nextjs-white.svg?&style=for-the-badge&logo=next.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/flutter-blue.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nodejs-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nodejs-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%20sharp-blue.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-purple.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-orange.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
