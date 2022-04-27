@@ -40,4 +40,4 @@ I am a software engineer passionate about frontend and all the ecosystem around 
 
 #### Support Me
 
-<a href="https://www.buymeacoffee.com/joaoaquino"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" width="200" style="border-radius: 5px;" /></a>
+<a href="https://www.buymeacoffee.com/joaoaquino"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" width="200" /></a>
