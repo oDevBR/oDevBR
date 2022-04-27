@@ -37,3 +37,7 @@ I am a software engineer passionate about frontend and all the ecosystem around 
   <img src="https://github-readme-stats.vercel.app/api?username=whisoer&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whisoer&layout=compact&theme=tokyonight">
 </p>
+
+#### Support Me
+
+<a href="https://www.buymeacoffee.com/joaoaquino"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" width="200" style="border-radius: 5px;" /></a>
