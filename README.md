@@ -2,8 +2,8 @@
 
 ### Hello there 👋 welcome to my profile :)
 
-<a href="https://www.instagram.com/whisoer/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/whisoer/whisoer/blob/main/assets/instagram.png?raw=true" alt="Instagram: @whisoer"/></a>
-<a href="https://www.linkedin.com/in/joao-aquino/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/whisoer/whisoer/blob/main/assets/linkedin.png?raw=true" alt="LinkedIn: @joaoaquino"/></a>
+<a href="https://www.instagram.com/oDevBR/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/oDevBR/oDevBR/blob/main/assets/instagram.png?raw=true" alt="Instagram: @oDevBR"/></a>
+<a href="https://www.linkedin.com/in/joao-aquino/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/oDevBR/oDevBR/blob/main/assets/linkedin.png?raw=true" alt="LinkedIn: @joaoaquino"/></a>
 
 ---
 
@@ -34,8 +34,8 @@ I am a software engineer passionate about frontend and all the ecosystem around 
 #### 📈 Github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whisoer&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whisoer&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=oDevBR&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oDevBR&layout=compact&theme=tokyonight">
 </p>
 
 #### Support Me
