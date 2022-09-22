@@ -1,5 +1,8 @@
 # :walking: João Pedro Aquino
 
+I get a lot of messages from recruiters. To respect both of our time, instead of messaging me, please fill out this form:
+[Reverse Apply Form](https://forms.gle/1ChHpdUFSTFfocjx9)
+
 ### Hello there 👋 welcome to my profile :)
 
 <a href="https://www.instagram.com/oDevBR/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/oDevBR/oDevBR/blob/main/assets/instagram.png?raw=true" alt="Instagram: @oDevBR"/></a>
@@ -7,7 +10,11 @@
 
 ---
 
-I am a software engineer passionate about frontend and all the ecosystem around it! I am always looking to learn and improve my skills through things like reading, podcasts, a good practice, online courses and events. I love how challenging every day is, giving me the possibility to grow fast as a person.
+I'm a senior software engineer with more than eight years of professional experience.
+
+I have experience with full life cycle development but I see myself as a T-Shaped professional because I've been focused deep on frontend development acquiring React proficiency with a solid understanding of Javascript.
+
+I love being able to use the best of technology to help people's lives.
  
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [joao.aquino.dev@gmail.com](mailto:joao.aquino.dev@gmail.com)
