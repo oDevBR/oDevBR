@@ -18,8 +18,8 @@ I love being able to use the best of technology to help people's lives.
  
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [joao.aquino.dev@gmail.com](mailto:joao.aquino.dev@gmail.com)
-* 🚀  I'm currently working at [Grupo 3778](http://www.grupo3778.com.br/) as a Software Engineer, Frontend
-* 🧠  I'm learning Flutter / Next.js
+* 🚀  I'm currently working at [SigmaMD](https://www.sigmamd.app/) as a Software Engineer, Frontend
+* 🧠  I'm always learning more about web development
 * 🤝  I'm open to collaborating on public projects using Javascript / Typescript
 * 🎯  Goal: Deliver the best of technology to everyone
 * ⚡  Fun fact: I helped create a drink and named it "Tonho"
