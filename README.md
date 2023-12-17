@@ -1,8 +1,5 @@
 # :walking: João Pedro Aquino
 
-I get a lot of messages from recruiters. To respect both of our time, instead of messaging me, please fill out this form:
-[Reverse Apply Form](https://forms.gle/1ChHpdUFSTFfocjx9)
-
 ### Hello there 👋 welcome to my profile :)
 
 <a href="https://www.instagram.com/oDevBR/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/oDevBR/oDevBR/blob/main/assets/instagram.png?raw=true" alt="Instagram: @oDevBR"/></a>
@@ -10,19 +7,15 @@ I get a lot of messages from recruiters. To respect both of our time, instead of
 
 ---
 
-I'm a senior software engineer with more than eight years of professional experience.
-
-I have experience with full life cycle development but I see myself as a T-Shaped professional because I've been focused deep on frontend development acquiring React proficiency with a solid understanding of Javascript.
-
 I love being able to use the best of technology to help people's lives.
  
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [joao.aquino.dev@gmail.com](mailto:joao.aquino.dev@gmail.com)
-* 🚀  I'm currently working at [SigmaMD](https://www.sigmamd.app/) as a Software Engineer, Frontend
+* 🚀  I'm currently working at [SigmaMD](https://www.sigmamd.app/) as a Senior Software Engineer, Frontend
 * 🧠  I'm always learning more about web development
 * 🤝  I'm open to collaborating on public projects using Javascript / Typescript
 * 🎯  Goal: Deliver the best of technology to everyone
-* ⚡  Fun fact: I helped create a drink and named it "Tonho"
+* ⚡  Fun fact: I am a certified beer sommelier and helped create a drink called 'Tonho' (15% Tahiti lemon juice, 15% honey, 50% Velho Barreiro (Brazilian cachaça), 20% Monster White Zero Sugar energy drink).
 
 #### 🚀 Skills that I love to talk about
 
