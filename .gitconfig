@@ -1,0 +1,27 @@
+[user]
+	name = João Aquino
+	email = joao.aquino.dev@gmail.com
+[pull]
+	rebase = true
+[alias]
+    st = status
+    lg = log --graph --date=relative --pretty=tformat:'%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%an %ad)%Creset'
+    cm = commit -m
+    push-with-lease = push --force-with-lease
+    uncommit = reset --soft HEAD~1
+    branch = checkout
+	newBranch = checkout -b
+	wip = !git add -u && git commit -m \"WIP\"
+[core]
+    # VSCode
+    editor = code --wait
+    # Don't consider trailing space change as a cause for merge conflicts
+    whitespace = -trailing-space
+[fetch]
+    recurseSubmodules = on-demand
+[push]
+    # Default push should only push the current branch to its push target, regardless of its remote name
+	default = current
+    # When pushing, also push tags whose commit-ishs are now reachable upstream
+    followTags = true
+	autoSetupRemote = true
