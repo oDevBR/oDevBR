@@ -2,7 +2,7 @@
 
 ### Hello there 👋 welcome to my profile :)
 
-<a href="https://www.instagram.com/oDevBR/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/oDevBR/oDevBR/blob/main/assets/instagram.png?raw=true" alt="Instagram: @oDevBR"/></a>
+<a href="https://www.instagram.com/odevbr_/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/oDevBR/oDevBR/blob/main/assets/instagram.png?raw=true" alt="Instagram: @oDevBR"/></a>
 <a href="https://www.linkedin.com/in/joao-aquino/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/oDevBR/oDevBR/blob/main/assets/linkedin.png?raw=true" alt="LinkedIn: @joaoaquino"/></a>
 
 ---
